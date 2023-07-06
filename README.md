@@ -1,2 +1,2 @@
 # portofolio
-Its my first project
+Saya akan membuat sebuah website sederhana / portfolio
