@@ -8,6 +8,8 @@ Rencana Data :
 ~Img Formal 1
 ~Img Unformal 2
 ~img content tambahan
+~Img Header
+~img Paralax
 
  -Teks
 ~About
@@ -15,5 +17,5 @@ Rencana Data :
 ~Contact
 ~Price
 
- -Animation
+
  
