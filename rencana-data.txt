@@ -1,0 +1,17 @@
+Rencana Data : 
+ -Data
+-Data Projek
+~Data Feedback
+~Data Project
+
+ -Image
+~Img Formal 1
+~Img Unformal 2
+~img content tambahan
+
+ -Teks
+~About
+~Service
+~Contact
+~Price
+ 
