@@ -16,4 +16,8 @@ Rencana Data :
 ~Price
 
  -Animation
+~Animation Teks 
+~Animation Card
+~Animation Img 
+~dll
  
