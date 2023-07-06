@@ -17,5 +17,10 @@ Rencana Data :
 ~Contact
 ~Price
 
+ -Animation
+~Animation Teks 
+~Animation Card
+~Animation Img 
+~dll
 
  
